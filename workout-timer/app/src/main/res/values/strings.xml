@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WorkoutTimer</string>
+    <string name="workoutHoursTextString">You spent 00:00 on a workout last time</string>
+    <string name="workoutTypeTextString">Enter your workout type:</string>
+    <string name="startButtonDescString">Start the timer</string>
+    <string name="pauseButtonDescString">Pause the timer</string>
+    <string name="stopButtonDescString">Stop the timer</string>
+    <string name="workoutTypeNameString">workout</string>
+</resources>
