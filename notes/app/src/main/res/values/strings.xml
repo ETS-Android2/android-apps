@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">NotesAPP</string>
+    <string name="createButtonString">CREATE A NEW NOTE</string>
+    <string name="showNotesButtonString">SHOW ALL NOTES</string>
+    <string name="noteImageDesc">A picture of note</string>
+    <string name="enterNoteString">Enter your note here</string>
+    <string name="saveNoteButtonString">SAVE</string>
+    <string name="enterNoteHintString">Enter note here</string>
+    <string name="updateNoteButtonString">UPDATE</string>
+    <string name="deleteButtonNoteString">DELETE</string>
+</resources>
