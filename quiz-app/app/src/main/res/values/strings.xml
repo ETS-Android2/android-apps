@@ -1,0 +1,74 @@
+<resources>
+    <string name="app_name">Quiz APP</string>
+    <string name="StartScreenTitle">SIT305 Quiz App</string>
+    <string name="StartScreenText1">Enter your name:</string>
+    <string name="StartEditTextHint">Name</string>
+    <string name="StartButton">START</string>
+    <string name="QuizProgressBarText">1/5</string>
+
+    // Array for array of answers
+    <array name="questionAnswers">
+        <item>@array/firstQuestionAnswers</item>
+        <item>@array/secondQuestionAnswers</item>
+        <item>@array/thirdQuestionAnswers</item>
+        <item>@array/fourthQuestionAnswers</item>
+        <item>@array/fifthQuestionAnswers</item>
+    </array>
+
+    // Array for the question title
+    <string-array name="questionTitles">
+        <item>Android Introduction</item>
+        <item>Android Introduction</item>
+        <item>Android Introduction</item>
+        <item>Android UI Development</item>
+        <item>Activity and Intent</item>
+    </string-array>
+
+    // Array for question desc
+    <string-array name="questionDescriptions">
+        <item>Which of the following statements is false?</item>
+        <item>What is inside the Java API Framework?</item>
+        <item>Which of the following is not an Android version name?</item>
+        <item>Which of the following is not part of Basic Input Controls?</item>
+        <item>What are the 4 possible lifecycle states of an Activity?</item>
+    </string-array>
+
+    
+    // Arrays for answers
+    
+    // Array for first question answers
+    <string-array name="firstQuestionAnswers">
+        <item>Android is designed for mobile devices</item>
+        <item>Android is programmed using Java</item>
+        <item>Android code is not open source</item>
+    </string-array>
+
+    // Array for second question answers
+    <string-array name="secondQuestionAnswers">
+        <item>Activity, Package, Window</item>
+        <item>Webkit, Libc, OpenGL ES</item>
+        <item>Email, Camera, Calendar</item>
+    </string-array>
+
+    // Array for third question answers
+    <string-array name="thirdQuestionAnswers">
+        <item>Waffle</item>
+        <item>Lollipop</item>
+        <item>Nougat</item>
+    </string-array>
+
+    // Array for fourth question answers
+    <string-array name="fourthQuestionAnswers">
+        <item>Button</item>
+        <item>Text View</item>
+        <item>Checkbox</item>
+    </string-array>
+
+    // Array for fifth question answers
+    <string-array name="fifthQuestionAnswers">
+        <item>Foreground, Framework, Fully Shown, Destroyed</item>
+        <item>Background, Partially Hidden, Fully Hidden, Not Hidden</item>
+        <item>Foreground, Partially Hidden, Fully Hidden, Destroyed</item>
+    </string-array>
+
+</resources>
