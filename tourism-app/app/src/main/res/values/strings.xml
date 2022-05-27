@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">TourismApp</string>
+    <string name="topDestinationTextString">TOP DESTINATIONS</string>
+    <string name="placesToGoTextString">PLACES TO GO</string>
+
+    // Arrays
+
+    // Name of the places
+    <string-array name="placenamelist">
+        <item>Borobudur</item>
+        <item>Mount Bromo</item>
+        <item>Komodo National Park</item>
+        <item>Lake Toba</item>
+        <item>Ubud Monkey Forest</item>
+        <item>Gili Island</item>
+    </string-array>
+
+    // Location of the places
+    <string-array name="placelocationlist">
+        <item>Central Java, Indonesia</item>
+        <item>East Java, Indonesia</item>
+        <item>East Nusa Tenggara, Indonesia</item>
+        <item>North Sumatra, Indonesia</item>
+        <item>Bali, Indonesia</item>
+        <item>West Nusa Tenggara, Indonesia</item>
+    </string-array>
+
+    // Description of the places
+    <string-array name="placedesclist">
+        <item>Borobudur temple is the worlds biggest Buddhist sanctuary.</item>
+        <item>This volcano is one of the most iconic sights from Indonesia.</item>
+        <item>Here you can find the mighty and otherworldly lizard, the Komodo Dragon.</item>
+        <item>Lake Toba is one of Indonesia most beautiful lake.</item>
+        <item>At this Hindu temple, you will see many long-tailed macaques.</item>
+        <item>These picturesque islands offer beaches that rival those of Bali in their beauty</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
