@@ -1,7 +1,0 @@
-<resources>
-    <string name="app_name">FoodMobile</string>
-    <string name="SaveButtonString">Save</string>
-    <string name="PopupMenuHome">Home</string>
-    <string name="PopupMenuAccount">Account</string>
-    <string name="PopupMenuMyList">My List</string>
-</resources>
